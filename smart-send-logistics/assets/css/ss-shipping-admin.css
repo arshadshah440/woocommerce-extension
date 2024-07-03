@@ -1,0 +1,21 @@
+.ss-meta-message {
+	margin-top: 15px !important;
+}
+
+.error .ss-meta-message {
+	list-style-type: disc;
+}
+
+.error .ss-meta-message, li {
+	margin-left: 10px;
+}
+
+.ss-connection {
+	display: inline-block;
+	margin-top: 5px !important;
+	margin-left: 5px !important;
+}
+
+#smart-send-logistics-update .dummy {
+	display: none;
+}
